@@ -1,0 +1,10 @@
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MessageBoxDemo\MessageBoxDemo\bin\Debug\MessageBoxDemo.exe.config
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MessageBoxDemo\MessageBoxDemo\bin\Debug\MessageBoxDemo.exe
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MessageBoxDemo\MessageBoxDemo\bin\Debug\MessageBoxDemo.pdb
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MessageBoxDemo\MessageBoxDemo\obj\Debug\MessageBoxDemo.csproj.AssemblyReference.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MessageBoxDemo\MessageBoxDemo\obj\Debug\MessageBoxDemo.Form1.resources
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MessageBoxDemo\MessageBoxDemo\obj\Debug\MessageBoxDemo.Properties.Resources.resources
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MessageBoxDemo\MessageBoxDemo\obj\Debug\MessageBoxDemo.csproj.GenerateResource.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MessageBoxDemo\MessageBoxDemo\obj\Debug\MessageBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MessageBoxDemo\MessageBoxDemo\obj\Debug\MessageBoxDemo.exe
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MessageBoxDemo\MessageBoxDemo\obj\Debug\MessageBoxDemo.pdb

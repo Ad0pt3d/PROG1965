@@ -1,0 +1,10 @@
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.exe.config
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.exe
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.pdb
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.AssemblyReference.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.MainForm.resources
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.Properties.Resources.resources
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.GenerateResource.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.CoreCompileInputs.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.exe
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.pdb
