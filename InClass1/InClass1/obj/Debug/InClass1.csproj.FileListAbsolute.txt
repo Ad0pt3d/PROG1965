@@ -1,0 +1,10 @@
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass1\InClass1\bin\Debug\InClass1.exe.config
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass1\InClass1\bin\Debug\InClass1.exe
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass1\InClass1\bin\Debug\InClass1.pdb
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass1\InClass1\obj\Debug\InClass1.csproj.AssemblyReference.cache
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass1\InClass1\obj\Debug\InClass1.Calculator.resources
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass1\InClass1\obj\Debug\InClass1.Properties.Resources.resources
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass1\InClass1\obj\Debug\InClass1.csproj.GenerateResource.cache
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass1\InClass1\obj\Debug\InClass1.csproj.CoreCompileInputs.cache
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass1\InClass1\obj\Debug\InClass1.exe
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass1\InClass1\obj\Debug\InClass1.pdb
