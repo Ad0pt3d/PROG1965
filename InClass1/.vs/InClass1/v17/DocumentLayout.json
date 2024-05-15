@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{33B5A4C3-19E3-4B04-9E9D-A9E946C9FE9F}|InClass1\\InClass1.csproj|C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass1\\inclass1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33B5A4C3-19E3-4B04-9E9D-A9E946C9FE9F}|InClass1\\InClass1.csproj|solutionrelative:inclass1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33B5A4C3-19E3-4B04-9E9D-A9E946C9FE9F}|InClass1\\InClass1.csproj|c:\\users\\rafim\\desktop\\coding\\prog1965\\inclass1\\inclass1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33B5A4C3-19E3-4B04-9E9D-A9E946C9FE9F}|InClass1\\InClass1.csproj|solutionrelative:inclass1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33B5A4C3-19E3-4B04-9E9D-A9E946C9FE9F}|InClass1\\InClass1.csproj|c:\\users\\rafim\\desktop\\coding\\prog1965\\inclass1\\inclass1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{33B5A4C3-19E3-4B04-9E9D-A9E946C9FE9F}|InClass1\\InClass1.csproj|solutionrelative:inclass1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33B5A4C3-19E3-4B04-9E9D-A9E946C9FE9F}|InClass1\\InClass1.csproj|c:\\users\\rafim\\desktop\\coding\\prog1965\\inclass1\\inclass1\\calculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33B5A4C3-19E3-4B04-9E9D-A9E946C9FE9F}|InClass1\\InClass1.csproj|C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass1\\inclass1\\calculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33B5A4C3-19E3-4B04-9E9D-A9E946C9FE9F}|InClass1\\InClass1.csproj|solutionrelative:inclass1\\calculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Calculator.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass1\\InClass1\\Calculator.cs",
               "RelativeDocumentMoniker": "InClass1\\Calculator.cs",
@@ -39,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass1\\InClass1\\Calculator.cs",
               "RelativeDocumentMoniker": "InClass1\\Calculator.cs",
               "ToolTip": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass1\\InClass1\\Calculator.cs",
               "RelativeToolTip": "InClass1\\Calculator.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCAAAAAmAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwBEAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T19:49:03.398Z",
               "IsPinned": true,
@@ -61,8 +61,7 @@
               "RelativeToolTip": "InClass1\\Calculator.Designer.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAqwEMAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T20:24:45.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T20:24:45.011Z"
             }
           ]
         }

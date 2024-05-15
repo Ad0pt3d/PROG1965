@@ -11,6 +11,13 @@ using System.Xml.Serialization;
 
 namespace InClass1
 {
+    /* Calculator.cs
+     * A simple calculator built with Windows Forms App
+     * 
+     * Revision History:
+     *      Rafi Miah & Danial Tossel, 2024.05.15: Created
+     */
+
     public partial class Calculator : Form
     {
         double x; // first operand
@@ -27,6 +34,7 @@ namespace InClass1
         // event handler for number buttons
         private void digitBtn_Click(object sender, EventArgs e)
         {
+            // resets label, textbox and isNewNumber
             if (isNewNumber)
             {
                 calcEnterTxt.Text = "";
@@ -34,78 +42,84 @@ namespace InClass1
                 isNewNumber = false;
             }
 
-            string digit = ((Button)sender).Text;
+            string digit = ((Button)sender).Text; // variable to store the value from the digit buttons
 
+            // ignores decimals if one exists
             if (hasDecimal && digit == ".")
             {
                 digit = "";
             }
 
+            // sets hasDecimal to true if one exists
             if (digit == ".")
             {
                 hasDecimal = true;
             }            
 
+            // appends the digit value to textbox
             calcEnterTxt.Text += digit;
         }
 
         // event handler for operation buttons
         private void operationBtn_Click(object sender, EventArgs e)
         {
-            x = Convert.ToDouble(calcEnterTxt.Text);
-            calcEnterTxt.Text = "";
-            pendingOperation = ((Button)sender).Text;
+            x = Convert.ToDouble(calcEnterTxt.Text); // converts textbox value to double
+            calcEnterTxt.Text = ""; // resets textbox value
+            pendingOperation = ((Button)sender).Text; // sets pendingOperation to operation buttons value
 
-            equationLbl.Text += $"{x} {pendingOperation} ";
+            equationLbl.Text += $"{x} {pendingOperation} "; // formatted string to append to label
         }
 
         // event handler for equals button
         private void equalsBtn_Click(object sender, EventArgs e)
         {
-            y = Convert.ToDouble(calcEnterTxt.Text);
+            y = Convert.ToDouble(calcEnterTxt.Text); // converts textbox value to double
 
             double result;
 
+            // switch case for handling all possible operations
             switch (pendingOperation)
             {
                 case "+":
                     result = x + y;
-                    calcEnterTxt.Text = result.ToString();
-                    equationLbl.Text += $"{y} = {result}";
+                    calcEnterTxt.Text = result.ToString(); // converts result to string and sets textbox value to result
+                    equationLbl.Text += $"{y} = {result}"; // appends y value and result to label
                     break;
                 case "-":
                     result = x - y;
-                    calcEnterTxt.Text = result.ToString();
-                    equationLbl.Text += $"{y} = {result}";
+                    calcEnterTxt.Text = result.ToString(); // converts result to string and sets textbox value to result
+                    equationLbl.Text += $"{y} = {result}"; // appends y value and result to label
                     break;
                 case "*":
                     result = x * y;
-                    calcEnterTxt.Text = result.ToString();
-                    equationLbl.Text += $"{y} = {result}";
+                    calcEnterTxt.Text = result.ToString(); // converts result to string and sets textbox value to result
+                    equationLbl.Text += $"{y} = {result}"; // appends y value and result to label
                     break;
                 case "/":
                     result = x / y;
-                    calcEnterTxt.Text = result.ToString();
-                    equationLbl.Text += $"{y} = {result}";
+                    calcEnterTxt.Text = result.ToString(); // converts result to string and sets textbox value to result
+                    equationLbl.Text += $"{y} = {result}"; // appends y value and result to label
                     break;
             }
 
-            x = 0;
-            pendingOperation = "";
-            isNewNumber = true;
+            x = 0; // resets x
+            pendingOperation = ""; // resets pendingOperation
+            isNewNumber = true; // sets inNewNumber to true
         }
 
+        // event handler for clear buttons
         private void clearBtn_Click (object sender, EventArgs e)
         {
+            // checks to see if button was specifically 'C'
             if (((Button)sender).Text == "C")
             { 
-                equationLbl.Text = "";
-                x = 0;
-                pendingOperation = "";
-                isNewNumber = true;
+                equationLbl.Text = ""; // resets label
+                x = 0; // resets x
+                pendingOperation = ""; // resets pendingOperation
+                isNewNumber = true; // sets inNewNumber to true
             }
 
-            calcEnterTxt.Text = "";
+            calcEnterTxt.Text = ""; // clears textbox on clear button press
         }
     }
 }
