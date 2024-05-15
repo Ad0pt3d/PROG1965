@@ -1,0 +1,10 @@
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\ListBoxEg1\ListBoxEg1\bin\Debug\ListBoxEg1.exe.config
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\ListBoxEg1\ListBoxEg1\bin\Debug\ListBoxEg1.exe
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\ListBoxEg1\ListBoxEg1\bin\Debug\ListBoxEg1.pdb
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\ListBoxEg1\ListBoxEg1\obj\Debug\ListBoxEg1.csproj.AssemblyReference.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\ListBoxEg1\ListBoxEg1\obj\Debug\ListBoxEg1.Form1.resources
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\ListBoxEg1\ListBoxEg1\obj\Debug\ListBoxEg1.Properties.Resources.resources
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\ListBoxEg1\ListBoxEg1\obj\Debug\ListBoxEg1.csproj.GenerateResource.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\ListBoxEg1\ListBoxEg1\obj\Debug\ListBoxEg1.csproj.CoreCompileInputs.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\ListBoxEg1\ListBoxEg1\obj\Debug\ListBoxEg1.exe
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\ListBoxEg1\ListBoxEg1\obj\Debug\ListBoxEg1.pdb

@@ -1,0 +1,11 @@
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MultiDocumentExample\MultiDocumentExample\bin\Debug\MultiDocumentExample.exe.config
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MultiDocumentExample\MultiDocumentExample\bin\Debug\MultiDocumentExample.exe
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MultiDocumentExample\MultiDocumentExample\bin\Debug\MultiDocumentExample.pdb
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MultiDocumentExample\MultiDocumentExample\obj\Debug\MultiDocumentExample.csproj.AssemblyReference.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MultiDocumentExample\MultiDocumentExample\obj\Debug\MultiDocumentExample.Properties.Resources.resources
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MultiDocumentExample\MultiDocumentExample\obj\Debug\MultiDocumentExample.csproj.GenerateResource.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MultiDocumentExample\MultiDocumentExample\obj\Debug\MultiDocumentExample.csproj.CoreCompileInputs.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MultiDocumentExample\MultiDocumentExample\obj\Debug\MultiDocumentExample.exe
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MultiDocumentExample\MultiDocumentExample\obj\Debug\MultiDocumentExample.pdb
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MultiDocumentExample\MultiDocumentExample\obj\Debug\MultiDocumentExample.MainForm.resources
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\MultiDocumentExample\MultiDocumentExample\obj\Debug\MultiDocumentExample.ThirdForm.resources
