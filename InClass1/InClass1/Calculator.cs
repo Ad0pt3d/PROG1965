@@ -45,7 +45,7 @@ namespace InClass1
             string digit = ((Button)sender).Text; // variable to store the value from the digit buttons
 
             // ignores decimals if one exists
-            if (hasDecimal && digit == ".")
+            if (hasDecimal && (digit == "."))
             {
                 digit = "";
             }
@@ -75,32 +75,27 @@ namespace InClass1
         {
             y = Convert.ToDouble(calcEnterTxt.Text); // converts textbox value to double
 
-            double result;
+            double result = 0;
 
             // switch case for handling all possible operations
             switch (pendingOperation)
             {
                 case "+":
-                    result = x + y;
-                    calcEnterTxt.Text = result.ToString(); // converts result to string and sets textbox value to result
-                    equationLbl.Text += $"{y} = {result}"; // appends y value and result to label
+                    result = x + y;              
                     break;
                 case "-":
                     result = x - y;
-                    calcEnterTxt.Text = result.ToString(); // converts result to string and sets textbox value to result
-                    equationLbl.Text += $"{y} = {result}"; // appends y value and result to label
                     break;
                 case "*":
                     result = x * y;
-                    calcEnterTxt.Text = result.ToString(); // converts result to string and sets textbox value to result
-                    equationLbl.Text += $"{y} = {result}"; // appends y value and result to label
                     break;
                 case "/":
                     result = x / y;
-                    calcEnterTxt.Text = result.ToString(); // converts result to string and sets textbox value to result
-                    equationLbl.Text += $"{y} = {result}"; // appends y value and result to label
                     break;
             }
+
+            calcEnterTxt.Text = result.ToString(); // converts result to string and sets textbox value to result
+            equationLbl.Text += $"{y} = {result}"; // appends y value and result to label
 
             x = 0; // resets x
             pendingOperation = ""; // resets pendingOperation

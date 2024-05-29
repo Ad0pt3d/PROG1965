@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CFA2F9-2B70-4992-ACAA-284677722D28}|InClass2\\InClass2.csproj|c:\\users\\rafim\\desktop\\coding\\prog1965\\inclass2\\inclass2\\clockdatealarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1CFA2F9-2B70-4992-ACAA-284677722D28}|InClass2\\InClass2.csproj|solutionrelative:inclass2\\clockdatealarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CFA2F9-2B70-4992-ACAA-284677722D28}|InClass2\\InClass2.csproj|c:\\users\\rafim\\desktop\\coding\\prog1965\\inclass2\\inclass2\\clockdatealarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CFA2F9-2B70-4992-ACAA-284677722D28}|InClass2\\InClass2.csproj|solutionrelative:inclass2\\clockdatealarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClockDateAlarm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass2\\InClass2\\ClockDateAlarm.cs",
+              "RelativeDocumentMoniker": "InClass2\\ClockDateAlarm.cs",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass2\\InClass2\\ClockDateAlarm.cs [Design]",
+              "RelativeToolTip": "InClass2\\ClockDateAlarm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:22:48.127Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClockDateAlarm.cs",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass2\\InClass2\\ClockDateAlarm.cs",
+              "RelativeDocumentMoniker": "InClass2\\ClockDateAlarm.cs",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass2\\InClass2\\ClockDateAlarm.cs",
+              "RelativeToolTip": "InClass2\\ClockDateAlarm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:48:08.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
