@@ -1,0 +1,10 @@
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass3\InClass3\obj\Debug\InClass3.csproj.AssemblyReference.cache
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass3\InClass3\obj\Debug\InClass3.GradeBookApp.resources
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass3\InClass3\obj\Debug\InClass3.Properties.Resources.resources
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass3\InClass3\obj\Debug\InClass3.csproj.GenerateResource.cache
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass3\InClass3\obj\Debug\InClass3.csproj.CoreCompileInputs.cache
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass3\InClass3\bin\Debug\InClass3.exe.config
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass3\InClass3\bin\Debug\InClass3.exe
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass3\InClass3\bin\Debug\InClass3.pdb
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass3\InClass3\obj\Debug\InClass3.exe
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass3\InClass3\obj\Debug\InClass3.pdb

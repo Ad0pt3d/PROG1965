@@ -206,7 +206,7 @@
             this.StopAlarmButton.UseVisualStyleBackColor = false;
             this.StopAlarmButton.Click += new System.EventHandler(this.StopAlarmButton_Click);
             // 
-            // Form1
+            // ClockDateAlarm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -226,7 +226,7 @@
             this.Controls.Add(this.CurrentSecondLabel);
             this.Controls.Add(this.AmPmLabel);
             this.Controls.Add(this.CurrentTimeLabel);
-            this.Name = "Form1";
+            this.Name = "ClockDateAlarm";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.ClockDateAlarm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.AlarmPictureBox)).EndInit();
