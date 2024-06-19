@@ -1,0 +1,10 @@
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\RafiMiah-MidTerm\RafiMiah-MidTerm\bin\Debug\RafiMiah-MidTerm.exe.config
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\RafiMiah-MidTerm\RafiMiah-MidTerm\bin\Debug\RafiMiah-MidTerm.exe
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\RafiMiah-MidTerm\RafiMiah-MidTerm\bin\Debug\RafiMiah-MidTerm.pdb
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\RafiMiah-MidTerm\RafiMiah-MidTerm\obj\Debug\RafiMiah-MidTerm.csproj.AssemblyReference.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\RafiMiah-MidTerm\RafiMiah-MidTerm\obj\Debug\RafiMiah_MidTerm.Properties.Resources.resources
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\RafiMiah-MidTerm\RafiMiah-MidTerm\obj\Debug\RafiMiah-MidTerm.csproj.GenerateResource.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\RafiMiah-MidTerm\RafiMiah-MidTerm\obj\Debug\RafiMiah-MidTerm.csproj.CoreCompileInputs.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\RafiMiah-MidTerm\RafiMiah-MidTerm\obj\Debug\RafiMiah-MidTerm.exe
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\RafiMiah-MidTerm\RafiMiah-MidTerm\obj\Debug\RafiMiah-MidTerm.pdb
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\RafiMiah-MidTerm\RafiMiah-MidTerm\obj\Debug\RafiMiah_MidTerm.MidTerm.resources

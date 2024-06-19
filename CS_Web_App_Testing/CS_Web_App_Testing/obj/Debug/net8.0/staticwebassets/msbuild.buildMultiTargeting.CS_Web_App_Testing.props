@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CS_Web_App_Testing.props" />
+</Project>

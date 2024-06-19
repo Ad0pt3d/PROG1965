@@ -1,0 +1,51 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CS_Web_App_Testing
+build_property.RootNamespace = CS_Web_App_Testing
+build_property.ProjectDir = C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\CS_Web_App_Testing\CS_Web_App_Testing\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\CS_Web_App_Testing\CS_Web_App_Testing
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/rafim/OneDrive/Desktop/College/ProgConcept2/CS_Web_App_Testing/CS_Web_App_Testing/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rafim/OneDrive/Desktop/College/ProgConcept2/CS_Web_App_Testing/CS_Web_App_Testing/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rafim/OneDrive/Desktop/College/ProgConcept2/CS_Web_App_Testing/CS_Web_App_Testing/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rafim/OneDrive/Desktop/College/ProgConcept2/CS_Web_App_Testing/CS_Web_App_Testing/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rafim/OneDrive/Desktop/College/ProgConcept2/CS_Web_App_Testing/CS_Web_App_Testing/Pages/Warframes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2FyZnJhbWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rafim/OneDrive/Desktop/College/ProgConcept2/CS_Web_App_Testing/CS_Web_App_Testing/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rafim/OneDrive/Desktop/College/ProgConcept2/CS_Web_App_Testing/CS_Web_App_Testing/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rafim/OneDrive/Desktop/College/ProgConcept2/CS_Web_App_Testing/CS_Web_App_Testing/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4tixwp1awi
