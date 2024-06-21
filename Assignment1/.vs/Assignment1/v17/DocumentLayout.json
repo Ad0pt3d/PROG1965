@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9443633-E5A0-4599-A4F9-863703106981}|Assignment1\\Assignment1.csproj|c:\\users\\rafim\\desktop\\coding\\prog1965\\assignment1\\assignment1\\venuebookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9443633-E5A0-4599-A4F9-863703106981}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\venuebookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9443633-E5A0-4599-A4F9-863703106981}|Assignment1\\Assignment1.csproj|c:\\users\\rafim\\desktop\\coding\\prog1965\\assignment1\\assignment1\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9443633-E5A0-4599-A4F9-863703106981}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9443633-E5A0-4599-A4F9-863703106981}|Assignment1\\Assignment1.csproj|C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\Assignment1\\assignment1\\venuebookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9443633-E5A0-4599-A4F9-863703106981}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\venuebookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VenueBookingSystem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\Assignment1\\Assignment1\\VenueBookingSystem.cs",
+              "RelativeDocumentMoniker": "Assignment1\\VenueBookingSystem.cs",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\Assignment1\\Assignment1\\VenueBookingSystem.cs [Design]",
+              "RelativeToolTip": "Assignment1\\VenueBookingSystem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:23:43.427Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\Assignment1\\Assignment1\\Venue.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Venue.cs",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\Assignment1\\Assignment1\\Venue.cs",
+              "RelativeToolTip": "Assignment1\\Venue.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:12:33.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VenueBookingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\Assignment1\\Assignment1\\VenueBookingSystem.cs",
+              "RelativeDocumentMoniker": "Assignment1\\VenueBookingSystem.cs",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\Assignment1\\Assignment1\\VenueBookingSystem.cs",
+              "RelativeToolTip": "Assignment1\\VenueBookingSystem.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAuwFYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:24:09.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
