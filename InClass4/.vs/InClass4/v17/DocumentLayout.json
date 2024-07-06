@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33AC3273-B038-43EF-A793-5D8D8CFBD013}|InClass4\\InClass4.csproj|C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass4\\inclass4\\inclass4form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33AC3273-B038-43EF-A793-5D8D8CFBD013}|InClass4\\InClass4.csproj|solutionrelative:inclass4\\inclass4form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AC3273-B038-43EF-A793-5D8D8CFBD013}|InClass4\\InClass4.csproj|c:\\users\\rafim\\desktop\\coding\\prog1965\\inclass4\\inclass4\\inclass4form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AC3273-B038-43EF-A793-5D8D8CFBD013}|InClass4\\InClass4.csproj|solutionrelative:inclass4\\inclass4form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AC3273-B038-43EF-A793-5D8D8CFBD013}|InClass4\\InClass4.csproj|c:\\users\\rafim\\desktop\\coding\\prog1965\\inclass4\\inclass4\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AC3273-B038-43EF-A793-5D8D8CFBD013}|InClass4\\InClass4.csproj|solutionrelative:inclass4\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass4\\InClass4\\Animals.cs",
+              "RelativeDocumentMoniker": "InClass4\\Animals.cs",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass4\\InClass4\\Animals.cs",
+              "RelativeToolTip": "InClass4\\Animals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:33:13.051Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InClass4Form.cs",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass4\\InClass4\\InClass4Form.cs",
+              "RelativeDocumentMoniker": "InClass4\\InClass4Form.cs",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass4\\InClass4\\InClass4Form.cs",
+              "RelativeToolTip": "InClass4\\InClass4Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:23:25.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InClass4Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass4\\InClass4\\InClass4Form.cs",
+              "RelativeDocumentMoniker": "InClass4\\InClass4Form.cs",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass4\\InClass4\\InClass4Form.cs [Design]",
+              "RelativeToolTip": "InClass4\\InClass4Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:19:15.877Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

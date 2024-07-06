@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass3\\",
+  "WorkspaceRootPath": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\InClass3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BD004AE-78B9-46CD-9BFB-ACC525281153}|InClass3\\InClass3.csproj|c:\\users\\rafim\\desktop\\coding\\prog1965\\inclass3\\inclass3\\gradebookapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BD004AE-78B9-46CD-9BFB-ACC525281153}|InClass3\\InClass3.csproj|C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\InClass3\\inclass3\\gradebookapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BD004AE-78B9-46CD-9BFB-ACC525281153}|InClass3\\InClass3.csproj|solutionrelative:inclass3\\gradebookapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD004AE-78B9-46CD-9BFB-ACC525281153}|InClass3\\InClass3.csproj|c:\\users\\rafim\\desktop\\coding\\prog1965\\inclass3\\inclass3\\gradebookapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7BD004AE-78B9-46CD-9BFB-ACC525281153}|InClass3\\InClass3.csproj|C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\InClass3\\inclass3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD004AE-78B9-46CD-9BFB-ACC525281153}|InClass3\\InClass3.csproj|solutionrelative:inclass3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD004AE-78B9-46CD-9BFB-ACC525281153}|InClass3\\InClass3.csproj|c:\\users\\rafim\\desktop\\college sem 2\\prog concepts 2\\inclass3\\inclass3\\gradebookapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7BD004AE-78B9-46CD-9BFB-ACC525281153}|InClass3\\InClass3.csproj|solutionrelative:inclass3\\gradebookapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,11 +26,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GradeBookApp.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass3\\InClass3\\GradeBookApp.cs",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\InClass3\\InClass3\\GradeBookApp.cs",
               "RelativeDocumentMoniker": "InClass3\\GradeBookApp.cs",
-              "ToolTip": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass3\\InClass3\\GradeBookApp.cs [Design]",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\InClass3\\InClass3\\GradeBookApp.cs [Design]",
               "RelativeToolTip": "InClass3\\GradeBookApp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T22:22:18.549Z",
@@ -37,14 +41,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GradeBookApp.cs",
-              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass3\\InClass3\\GradeBookApp.cs",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\InClass3\\InClass3\\GradeBookApp.cs",
               "RelativeDocumentMoniker": "InClass3\\GradeBookApp.cs",
-              "ToolTip": "C:\\Users\\rafim\\Desktop\\Coding\\PROG1965\\InClass3\\InClass3\\GradeBookApp.cs",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\InClass3\\InClass3\\GradeBookApp.cs",
               "RelativeToolTip": "InClass3\\GradeBookApp.cs",
-              "ViewState": "AQIAAJ0AAAAAAAAAAAAAwK8AAABaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T22:40:55.945Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\InClass3\\InClass3\\Program.cs",
+              "RelativeDocumentMoniker": "InClass3\\Program.cs",
+              "ToolTip": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\InClass3\\InClass3\\Program.cs",
+              "RelativeToolTip": "InClass3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:28:53.33Z",
               "EditorCaption": ""
             }
           ]

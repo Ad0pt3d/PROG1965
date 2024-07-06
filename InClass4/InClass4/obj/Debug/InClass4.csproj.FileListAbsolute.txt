@@ -1,0 +1,12 @@
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass4\InClass4\bin\Debug\InClass4.exe.config
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass4\InClass4\bin\Debug\InClass4.exe
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass4\InClass4\bin\Debug\InClass4.pdb
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass4\InClass4\obj\Debug\InClass4.csproj.AssemblyReference.cache
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass4\InClass4\obj\Debug\InClass4.InClass4Form.resources
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass4\InClass4\obj\Debug\InClass4.Properties.Resources.resources
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass4\InClass4\obj\Debug\InClass4.csproj.GenerateResource.cache
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass4\InClass4\obj\Debug\InClass4.csproj.CoreCompileInputs.cache
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass4\InClass4\obj\Debug\InClass4.exe
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass4\InClass4\obj\Debug\InClass4.pdb
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass4\InClass4\bin\Debug\Sounds\dog_bark.wav
+C:\Users\rafim\Desktop\Coding\PROG1965\InClass4\InClass4\bin\Debug\Sounds\cat_meow.wav
