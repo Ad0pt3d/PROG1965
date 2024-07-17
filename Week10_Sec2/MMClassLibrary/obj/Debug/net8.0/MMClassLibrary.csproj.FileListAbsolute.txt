@@ -1,0 +1,12 @@
+C:\Users\rafim\Desktop\College Sem 2\Prog Concepts 2\Week10_Sec2\MMClassLibrary\bin\Debug\net8.0\MMClassLibrary.deps.json
+C:\Users\rafim\Desktop\College Sem 2\Prog Concepts 2\Week10_Sec2\MMClassLibrary\bin\Debug\net8.0\MMClassLibrary.dll
+C:\Users\rafim\Desktop\College Sem 2\Prog Concepts 2\Week10_Sec2\MMClassLibrary\bin\Debug\net8.0\MMClassLibrary.pdb
+C:\Users\rafim\Desktop\College Sem 2\Prog Concepts 2\Week10_Sec2\MMClassLibrary\obj\Debug\net8.0\MMClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafim\Desktop\College Sem 2\Prog Concepts 2\Week10_Sec2\MMClassLibrary\obj\Debug\net8.0\MMClassLibrary.AssemblyInfoInputs.cache
+C:\Users\rafim\Desktop\College Sem 2\Prog Concepts 2\Week10_Sec2\MMClassLibrary\obj\Debug\net8.0\MMClassLibrary.AssemblyInfo.cs
+C:\Users\rafim\Desktop\College Sem 2\Prog Concepts 2\Week10_Sec2\MMClassLibrary\obj\Debug\net8.0\MMClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rafim\Desktop\College Sem 2\Prog Concepts 2\Week10_Sec2\MMClassLibrary\obj\Debug\net8.0\MMClassLibrary.sourcelink.json
+C:\Users\rafim\Desktop\College Sem 2\Prog Concepts 2\Week10_Sec2\MMClassLibrary\obj\Debug\net8.0\MMClassLibrary.dll
+C:\Users\rafim\Desktop\College Sem 2\Prog Concepts 2\Week10_Sec2\MMClassLibrary\obj\Debug\net8.0\refint\MMClassLibrary.dll
+C:\Users\rafim\Desktop\College Sem 2\Prog Concepts 2\Week10_Sec2\MMClassLibrary\obj\Debug\net8.0\MMClassLibrary.pdb
+C:\Users\rafim\Desktop\College Sem 2\Prog Concepts 2\Week10_Sec2\MMClassLibrary\obj\Debug\net8.0\ref\MMClassLibrary.dll

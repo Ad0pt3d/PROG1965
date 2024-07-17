@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProvinceMaintenance/1.0.0": {
+        "dependencies": {
+          "MMClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ProvinceMaintenance.dll": {}
+        }
+      },
+      "MMClassLibrary/1.0.0": {
+        "runtime": {
+          "MMClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProvinceMaintenance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MMClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
