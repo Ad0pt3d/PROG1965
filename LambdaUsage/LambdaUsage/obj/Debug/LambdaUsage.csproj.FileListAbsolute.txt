@@ -1,0 +1,10 @@
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\LambdaUsage\LambdaUsage\bin\Debug\LambdaUsage.exe.config
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\LambdaUsage\LambdaUsage\bin\Debug\LambdaUsage.exe
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\LambdaUsage\LambdaUsage\bin\Debug\LambdaUsage.pdb
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\LambdaUsage\LambdaUsage\obj\Debug\LambdaUsage.csproj.AssemblyReference.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\LambdaUsage\LambdaUsage\obj\Debug\LambdaUsage.Form1.resources
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\LambdaUsage\LambdaUsage\obj\Debug\LambdaUsage.Properties.Resources.resources
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\LambdaUsage\LambdaUsage\obj\Debug\LambdaUsage.csproj.GenerateResource.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\LambdaUsage\LambdaUsage\obj\Debug\LambdaUsage.csproj.CoreCompileInputs.cache
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\LambdaUsage\LambdaUsage\obj\Debug\LambdaUsage.exe
+C:\Users\rafim\OneDrive\Desktop\College\ProgConcept2\LambdaUsage\LambdaUsage\obj\Debug\LambdaUsage.pdb
