@@ -14,10 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Week10_Sec2
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\rafim\Desktop\College\ProgConcept2\Week10_Sec2\Week10_Sec2\
-=======
 build_property.ProjectDir = C:\Users\rafim\Desktop\College Sem 2\Prog Concepts 2\Week10_Sec2\Week10_Sec2\
->>>>>>> 3e354bf95969c67940a6f7aab37b2acf3dcd8a1b
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\InClass3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BD004AE-78B9-46CD-9BFB-ACC525281153}|InClass3\\InClass3.csproj|C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\InClass3\\inclass3\\gradebookapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BD004AE-78B9-46CD-9BFB-ACC525281153}|InClass3\\InClass3.csproj|c:\\users\\rafim\\desktop\\college sem 2\\prog concepts 2\\inclass3\\inclass3\\gradebookapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BD004AE-78B9-46CD-9BFB-ACC525281153}|InClass3\\InClass3.csproj|solutionrelative:inclass3\\gradebookapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{7BD004AE-78B9-46CD-9BFB-ACC525281153}|InClass3\\InClass3.csproj|solutionrelative:inclass3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD004AE-78B9-46CD-9BFB-ACC525281153}|InClass3\\InClass3.csproj|c:\\users\\rafim\\desktop\\college sem 2\\prog concepts 2\\inclass3\\inclass3\\gradebookapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7BD004AE-78B9-46CD-9BFB-ACC525281153}|InClass3\\InClass3.csproj|C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\InClass3\\inclass3\\gradebookapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7BD004AE-78B9-46CD-9BFB-ACC525281153}|InClass3\\InClass3.csproj|solutionrelative:inclass3\\gradebookapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -52,6 +52,10 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
@@ -61,8 +65,7 @@
               "RelativeToolTip": "InClass3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T01:28:53.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T01:28:53.33Z"
             }
           ]
         }

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\Week10_Sec2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EAE9196-58DC-4317-B717-8EC28DFC43EA}|MMClassLibrary\\MMClassLibrary.csproj|c:\\users\\rafim\\desktop\\college sem 2\\prog concepts 2\\week10_sec2\\mmclasslibrary\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EAE9196-58DC-4317-B717-8EC28DFC43EA}|MMClassLibrary\\MMClassLibrary.csproj|solutionrelative:mmclasslibrary\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6D835B2-8EDA-490F-9C77-7A9A75A43D97}|Week10_Sec2\\Week10_Sec2.csproj|c:\\users\\rafim\\desktop\\college sem 2\\prog concepts 2\\week10_sec2\\week10_sec2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D835B2-8EDA-490F-9C77-7A9A75A43D97}|Week10_Sec2\\Week10_Sec2.csproj|solutionrelative:week10_sec2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47378254-7FF6-45F5-92A3-2243048D7196}|Week10_Sec2\\ProvinceMaintenance.csproj|C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\Week10_Sec2\\week10_sec2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47378254-7FF6-45F5-92A3-2243048D7196}|Week10_Sec2\\ProvinceMaintenance.csproj|solutionrelative:week10_sec2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6453265-2463-45AE-AD9E-049334579E80}|MMClassLibrary\\MMClassLibrary.csproj|c:\\users\\rafim\\desktop\\college sem 2\\prog concepts 2\\week10_sec2\\mmclasslibrary\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6453265-2463-45AE-AD9E-049334579E80}|MMClassLibrary\\MMClassLibrary.csproj|solutionrelative:mmclasslibrary\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47378254-7FF6-45F5-92A3-2243048D7196}|Week10_Sec2\\ProvinceMaintenance.csproj|C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\Week10_Sec2\\week10_sec2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{47378254-7FF6-45F5-92A3-2243048D7196}|Week10_Sec2\\ProvinceMaintenance.csproj|solutionrelative:week10_sec2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B6D835B2-8EDA-490F-9C77-7A9A75A43D97}|Week10_Sec2\\Week10_Sec2.csproj|c:\\users\\rafim\\desktop\\college sem 2\\prog concepts 2\\week10_sec2\\week10_sec2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6D835B2-8EDA-490F-9C77-7A9A75A43D97}|Week10_Sec2\\Week10_Sec2.csproj|solutionrelative:week10_sec2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EAE9196-58DC-4317-B717-8EC28DFC43EA}|MMClassLibrary\\MMClassLibrary.csproj|C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\Week10_Sec2\\mmclasslibrary\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EAE9196-58DC-4317-B717-8EC28DFC43EA}|MMClassLibrary\\MMClassLibrary.csproj|solutionrelative:mmclasslibrary\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6453265-2463-45AE-AD9E-049334579E80}|MMClassLibrary\\MMClassLibrary.csproj|C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\Week10_Sec2\\mmclasslibrary\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6453265-2463-45AE-AD9E-049334579E80}|MMClassLibrary\\MMClassLibrary.csproj|solutionrelative:mmclasslibrary\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,25 +46,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\Week10_Sec2\\Week10_Sec2\\Form1.cs",
               "RelativeDocumentMoniker": "Week10_Sec2\\Form1.cs",
               "ToolTip": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\Week10_Sec2\\Week10_Sec2\\Form1.cs",
               "RelativeToolTip": "Week10_Sec2\\Form1.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBMAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T00:27:15.691Z"
+              "WhenOpened": "2024-07-13T00:27:15.691Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Province.cs",
               "DocumentMoniker": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\Week10_Sec2\\MMClassLibrary\\Province.cs",
               "RelativeDocumentMoniker": "MMClassLibrary\\Province.cs",
               "ToolTip": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\Week10_Sec2\\MMClassLibrary\\Province.cs",
               "RelativeToolTip": "MMClassLibrary\\Province.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAUwI8AAABDAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T00:26:28.783Z",
               "EditorCaption": ""
@@ -78,7 +79,8 @@
               "ToolTip": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\Week10_Sec2\\Week10_Sec2\\Form1.cs [Design]",
               "RelativeToolTip": "Week10_Sec2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T00:15:14.2Z"
+              "WhenOpened": "2024-07-13T00:15:14.2Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

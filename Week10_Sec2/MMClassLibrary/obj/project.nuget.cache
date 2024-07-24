@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "mY0PG6O4vDyfXm6xQJePh9+3oJzYXUAWjo3M/dJzFi/qghn1smYspyQb9cVXYMlIIi54uMBlMTIFUActHkXlDA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\rafim\\Desktop\\College\\ProgConcept2\\Week10_Sec2\\MMClassLibrary\\MMClassLibrary.csproj",
-=======
   "dgSpecHash": "Rzrb4r+Uv9CGMOQvsa4ucgUHbq92+3XcrqIAopZv/RtR8Y0/cfOF2WlWB9/qLW/goD5fhyClyL/idDPv5wBrMQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\Week10_Sec2\\MMClassLibrary\\MMClassLibrary.csproj",
->>>>>>> 3e354bf95969c67940a6f7aab37b2acf3dcd8a1b
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\Week10_Sec2\\MMClassLibrary\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "j3CFNBL3QWVJdhmhW5rWdD6/AGtrbyGryjo0Tk+uJpZ/gXuWIO6KOqt8Cq4zIOJeJ0GNcSeOz0SEBl3TUEtqWg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\rafim\\Desktop\\College\\ProgConcept2\\Week10_Sec2\\Week10_Sec2\\Week10_Sec2.csproj",
-=======
   "dgSpecHash": "UQ7RxA8sSHpqtJ5Wo2I/mrmRPzXBfdeRIdeXw1s6KeKHNv3PDEoN+L5lfHqrlo4mgndR5X8x8ZPk2rdClFKC+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\Week10_Sec2\\Week10_Sec2\\ProvinceMaintenance.csproj",
->>>>>>> 3e354bf95969c67940a6f7aab37b2acf3dcd8a1b
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\rafim\\Desktop\\College Sem 2\\Prog Concepts 2\\Week10_Sec2\\Week10_Sec2\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

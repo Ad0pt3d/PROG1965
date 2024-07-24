@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MMClassLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20965b1fadcdf7eb078dfa505e3b207a49c319e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f077adb9fdb514c4c88e4993b9f1bd09ec9613f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MMClassLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MMClassLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
